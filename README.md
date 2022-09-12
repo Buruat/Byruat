@@ -15,7 +15,7 @@
 </div>
 
 ### :earth_africa: About Me :
-I am a student of RTU MIREA. 
+I am a student of RTU MIREA, Cybersecurity Institute. 
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Byruat&theme=dark&background=000000)](https://git.io/streak-stats)
