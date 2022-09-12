@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-<img src = "https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" width = "200"/>
+<img src = "https://media.giphy.com/media/3oEdv4PbPTR65zVSqk/giphy.gif"/>
 </div>
 <div id="badges" align = "center">
   <a href="your-Telegram-URL">
@@ -7,12 +7,11 @@
     </a>
 </div>
 <img src="https://Byryat.com/ghpvc/?username=your-github-username&color=green" alt=""/>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-</h1>
+<h2 align="center">
+  :chart_with_upwards_trend: Welcome to my profile :mortar_board:
+</h2>
 <div align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
+  <img src="https://media.giphy.com/media/3oEjI5WqOk29QCGJag/giphy.gif" />
 </div>
 
 ### :earth_africa: About Me :
